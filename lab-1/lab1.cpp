@@ -6,5 +6,5 @@ using namespace std;
 int main()
 {
     system("chcp 1251 > nul");
-    cout << "Hello World! Ïðèâåò ìèð!" << endl;
+    cout << "Hello World! ÐŸÑ€Ð¸Ð²ÐµÑ‚ Ð¼Ð¸Ñ€!" << endl;
 }
